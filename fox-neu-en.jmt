@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jmatch-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Maurer</dc:creator>
+    <dc:title>Peter Fox - Alles Neu (Challenge - English)</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>Peter Fox - Alles Neu (Challenge - English)</title>
+
+<timer><seconds>240</seconds><include-timer>1</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<matching-exercise>
+<default-right-item>???</default-right-item>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;alles.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;alles.mp3&quot; title=&quot;alles.mp3&quot;&amp;#x003E;alles.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text> &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Everything shines, so beautifully new&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;wennsdir.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;wennsdir.mp3&quot; title=&quot;wennsdir.mp3&quot;&amp;#x003E;wennsdir.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text> &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;If it doesn&apos;t please you, start new&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;ichbin.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;ichbin.mp3&quot; title=&quot;ichbin.mp3&quot;&amp;#x003E;ichbin.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I&apos;m completely renovated&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;Weltmeister.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;Weltmeister.mp3&quot; title=&quot;Weltmeister.mp3&quot;&amp;#x003E;Weltmeister.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;World champion in chess and boxing&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;gibmir.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;gibmir.mp3&quot; title=&quot;gibmir.mp3&quot;&amp;#x003E;gibmir.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Give me a yes or a no&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;schluss.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;schluss.mp3&quot; title=&quot;schluss.mp3&quot;&amp;#x003E;schluss.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text> &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Enough pie in the sky (dilly dally)&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;ichwill.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;ichwill.mp3&quot; title=&quot;ichwill.mp3&quot;&amp;#x003E;ichwill.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text> &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I don&apos;t want to lie anymore&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;allesmuss.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;allesmuss.mp3&quot; title=&quot;allesmuss.mp3&quot;&amp;#x003E;allesmuss.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Everything must change&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;ichsuche.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;ichsuche.mp3&quot; title=&quot;ichsuche.mp3&quot;&amp;#x003E;ichsuche.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text> &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I am searching for the button&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;treffe.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;treffe.mp3&quot; title=&quot;treffe.mp3&quot;&amp;#x003E;treffe.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;(I) meet the powerful men&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;allesspielt.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;allesspielt.mp3&quot; title=&quot;allesspielt.mp3&quot;&amp;#x003E;allesspielt.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Everything&apos;s going (playing) crazy&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;ichsehe.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;ichsehe.mp3&quot; title=&quot;ichsehe.mp3&quot;&amp;#x003E;ichsehe.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I look better than Bono&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;undbin.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;undbin.mp3&quot; title=&quot;undbin.mp3&quot;&amp;#x003E;undbin.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;and am a man of the people&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+</matching-exercise>
+</data>
+
+<hotpot-config-file>
+<jmatch>
+<exercise-subtitle>Matching exercise</exercise-subtitle>
+<instructions>Match the items on the right to the items on the left.</instructions>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-limited-questions>1</show-limited-questions>
+<questions-to-show>7</questions-to-show>
+<shuffle-questions>1</shuffle-questions>
+<separate-javascript-file>1</separate-javascript-file>
+<next-caption>Next</next-caption>
+<delete-caption>Delete</delete-caption>
+<guess-correct>Alles richtig! Sehr gut! &amp;#x003C;br&amp;#x003E; &amp;#x003C;em&amp;#x003E;All correct! Very good!&amp;#x003C;/em&amp;#x003E;</guess-correct>
+<guess-incorrect>Tut mir Leid. Versuch es nochmal! &amp;#x003C;br&amp;#x003E;  &amp;#x003C;em&amp;#x003E; Sorry. Try again! &amp;#x003C;/em&amp;#x003E;</guess-incorrect>
+</jmatch>
+
+<global>
+<your-score-is>Dein Ergebnis ist... &amp;#x003C;br&amp;#x003E; &amp;#x003C;em&amp;#x003E;Your result is... &amp;#x003C;/em&amp;#x003E;</your-score-is>
+<correct-indicator>&amp;#x2714; Richtig</correct-indicator>
+<incorrect-indicator>&amp;#x2718; Falsch</incorrect-indicator>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>1</include-scorm-12>
+<times-up>Die Zeit ist um! &amp;#x003C;em&amp;#x003E;  Time is up! &amp;#x003C;/em&amp;#x003E;</times-up>
+<check-caption>Check</check-caption>
+<ok-caption>OK</ok-caption>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>0</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url>foxberlin.jpg</graphic-url>
+<font-face>&quot;Century Gothic&quot;,&quot;Berlin Sans FB&quot;,&quot;Bauhaus 93&quot;,&quot;Book Antiqua&quot;,Geneva,Arial,sans-serif</font-face>
+<font-size>large</font-size>
+<page-bg-color>#C0C0C0</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#000000</nav-bar-color>
+<formmail-url>http://jeffcoschools.us/cgi-bin/FormMail.pl</formmail-url>
+<email>amaurer@jeffcoschools.us</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jmatch-file>
